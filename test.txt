@@ -1,2 +1,3 @@
 It is a file named test.txt!
+Now,im try to merge remote branch to local master.
 YES.~!
